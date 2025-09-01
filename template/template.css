@@ -1,0 +1,109 @@
+/* /* body {
+    font-family: Arial, sans-serif;
+    background-color: #cce7ff;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+.student-info {
+    background-color: #cce7ff;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.student-info label {
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+.student-info input {
+    width: 200px;
+    padding: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #888;
+    border-radius: 4px;
+}
+
+.student-info .small-input {
+    width: 50px;
+}
+
+h2 {
+    color: #000080;
+    text-decoration: underline;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+th, td {
+    border: 1px solid #888;
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: #007399;
+    color: white;
+}
+
+th:nth-child(4), th:nth-child(5) {
+    background-color: #008000;
+}
+
+tbody td:first-child {
+    background-color: #0099cc;
+    color: white;
+    font-weight: bold;
+}
+
+.total-row td {
+    background-color: #004080;
+    color: white;
+    font-weight: bold;
+} 
+
+.table1{
+    border:5px solid gray;
+    font-family:"roboto";
+    border-collapse: collapse;
+    
+}
+.column_header{
+    background-color: rgb(205, 196, 255);
+    color:white;
+    text-align: center;
+
+}
+.data_cell{
+    border:1px solid #dddddd;
+    text-align: center;
+} */
+
+.Container{
+    height: 50vh;
+    padding:180px
+}
+.Name{
+    color:black ;
+    margin-left:10px;
+    width:405px;padding-left:10px
+}
+.Branch{
+    color:black;
+  
+    width:405px;padding-left:10px;
+    text-align:left;
+}
